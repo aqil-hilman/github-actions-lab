@@ -1,2 +1,2 @@
 # github-actions-lab
-tutorial 06
+STTPK3123-A251 tutorial-06
